@@ -71,6 +71,7 @@ Este projeto faz parte das atividades práticas de **Desenvolvimento Web / LIMA*
 A proposta da atividade é desenvolver uma página utilizando as principais tags HTML estudadas em aula, trabalhando conceitos básicos de estruturação e apresentação de conteúdo na web.
 
 ---
+
 ## 👾 Autoria
 
 * **Aluno:** Gabriel de Araujo Torres (Nº 08)
@@ -79,6 +80,10 @@ A proposta da atividade é desenvolver uma página utilizando as principais tags
 * **Data:** 11/08/2026
 
 #### Projeto desenvolvido no SENAI A. Jacob Lafer.
+---
+<p align="center">
+  <img src="https://media1.tenor.com/m/WALOzKMI5TQAAAAC/epic-rock-on.gif" width="220" height="auto" alt="Automatic Gate Animation" />
+</p>
 
 <p align="center">
   🎸 <strong>Scott Pilgrim contra o Mundo</strong> 🎸
