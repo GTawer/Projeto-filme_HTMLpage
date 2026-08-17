@@ -58,9 +58,9 @@ A obra combina elementos de **ação, comédia, romance e videogames**, criando 
 
 ---
 
-## 👁️ Preview do projeto
+## Preview do projeto
 
-![Preview da página](img/preview.png)
+![Preview da página](Representação_página.png)
 
 ---
 
