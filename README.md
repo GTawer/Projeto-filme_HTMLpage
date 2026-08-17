@@ -1,5 +1,7 @@
 # 🎸 Projeto Filme — Scott Pilgrim contra o Mundo
 
+> *"An epic of epic epicness."* ⚡🎸
+
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge&logo=github)
 ![Tecnologia](https://img.shields.io/badge/Tecnologia-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
@@ -43,7 +45,6 @@ A obra combina elementos de **ação, comédia, romance e videogames**, criando 
 ## 🛠️ Tecnologias e ferramentas utilizadas
 
 - **HTML5** — desenvolvimento e estruturação da página;
-- **Git** — controle de versão;
 - **GitHub** — hospedagem e organização do repositório;
 - **Visual Studio Code** — desenvolvimento do código.
 
