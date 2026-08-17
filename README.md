@@ -1,6 +1,6 @@
 # 🎸 Projeto Filme — Scott Pilgrim contra o Mundo
 
-> *"An epic of epic epicness."* ⚡🎸
+> *"An epic of epic epicness."* ⚡
 
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge&logo=github)
 ![Tecnologia](https://img.shields.io/badge/Tecnologia-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -64,17 +64,6 @@ A obra combina elementos de **ação, comédia, romance e videogames**, criando 
 
 ---
 
-## 👨‍💻 Autor
-
-**Gabriel de Araujo Torres**
-
-- 🎓 **Curso:** Técnico em Desenvolvimento de Sistemas
-- 📚 **Turma:** 1IE-DS
-- 🏫 **Instituição:** SENAI A. Jacob Lafer
-- 🔢 **Nº:** 08
-
----
-
 ## 📚 Atividade acadêmica
 
 Este projeto faz parte das atividades práticas de **Desenvolvimento Web / LIMA**, realizadas durante o curso Técnico em Desenvolvimento de Sistemas do **SENAI**.
@@ -82,6 +71,14 @@ Este projeto faz parte das atividades práticas de **Desenvolvimento Web / LIMA*
 A proposta da atividade é desenvolver uma página utilizando as principais tags HTML estudadas em aula, trabalhando conceitos básicos de estruturação e apresentação de conteúdo na web.
 
 ---
+## 👾 Autoria
+
+* **Aluno:** Gabriel de Araujo Torres (Nº 08)
+* **Disciplina:** Linguagem de Marcação (LIMA)
+* **Professores:** Raul Porto Lopes e Andre Luis Denani
+* **Data:** 11/08/2026
+
+#### Projeto desenvolvido no SENAI A. Jacob Lafer.
 
 <p align="center">
   🎸 <strong>Scott Pilgrim contra o Mundo</strong> 🎸
