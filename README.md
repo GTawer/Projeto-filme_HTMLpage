@@ -60,9 +60,9 @@ A obra combina elementos de **ação, comédia, romance e videogames**, criando 
 
 ## Preview do projeto
 
-<p align="center">
-<img src="Representação_página.png"/>
-</p>
+<div align="center">
+  <img src="https://github.com/GTawer/Projeto-filme_HTMLpage/blob/main/Projeto%20Filme%20%F0%9F%8E%AC/img/Representa%C3%A7%C3%A3o_p%C3%A1gina.png" alt="Preview" />
+</div>
 
 ---
 
@@ -84,7 +84,7 @@ A proposta da atividade é desenvolver uma página utilizando as principais tags
 #### Projeto desenvolvido no SENAI A. Jacob Lafer.
 ---
 <p align="center">
-  <img src="https://media1.tenor.com/m/WALOzKMI5TQAAAAC/epic-rock-on.gif" width="220" height="auto" alt="Automatic Gate Animation" />
+  <img src="https://media1.tenor.com/m/WALOzKMI5TQAAAAC/epic-rock-on.gif" width="auto" height="auto" alt="Automatic Gate Animation"" />
 </p>
 
 <p align="center">
