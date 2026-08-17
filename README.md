@@ -73,8 +73,6 @@ A obra combina elementos de **ação, comédia, romance e videogames**, criando 
 - 🏫 **Instituição:** SENAI A. Jacob Lafer
 - 🔢 **Nº:** 08
 
-🔗 [GitHub — GTawer](https://github.com/GTawer)
-
 ---
 
 ## 📚 Atividade acadêmica
@@ -82,14 +80,6 @@ A obra combina elementos de **ação, comédia, romance e videogames**, criando 
 Este projeto faz parte das atividades práticas de **Desenvolvimento Web / LIMA**, realizadas durante o curso Técnico em Desenvolvimento de Sistemas do **SENAI**.
 
 A proposta da atividade é desenvolver uma página utilizando as principais tags HTML estudadas em aula, trabalhando conceitos básicos de estruturação e apresentação de conteúdo na web.
-
----
-
-## 🔍 Observações
-
-Este projeto foi desenvolvido para **fins acadêmicos**, como exercício de aprendizagem e prática dos fundamentos de desenvolvimento web.
-
-A página poderá receber novas melhorias conforme novos conteúdos e tecnologias forem estudados durante o curso.
 
 ---
 
